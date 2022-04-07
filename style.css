@@ -1,0 +1,21 @@
+.line{
+height:7px;
+width:80px;
+background-color: rgb(247, 6, 135);
+margin:8px auto;
+}
+body{
+text-align:center;
+
+}
+h1 {
+font-size:25px;
+font-family:cursive;
+
+}
+#APPS{
+background-color: rgb(241, 136, 192);
+}
+#GAMES{
+background-color: rgb(136, 230, 241);
+}
